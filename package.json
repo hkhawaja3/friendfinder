@@ -1,0 +1,20 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Creating a friend finder app",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkhawaja3/friendfinder.git"
+  },
+  "author": "Hamza Khawaja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkhawaja3/friendfinder/issues"
+  },
+  "homepage": "https://github.com/hkhawaja3/friendfinder#readme"
+}
