@@ -1,17 +1,22 @@
 {
-  "name": "friendfinder",
+  "name": "friend-finder",
   "version": "1.0.0",
-  "description": "Creating a friend finder app",
+  "description": "",
   "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hkhawaja3/friendfinder.git"
+    "url": "git+https://github.com/hkhawaja3/friend-finder.git"
   },
-  "author": "Hamza Khawaja",
+  "author": "Cody Burmeister",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hkhawaja3/friendfinder/issues"
